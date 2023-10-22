@@ -15,9 +15,8 @@ assignees: ''
 * [document what you know]
 
 ### Acceptance Criteria
-```
-gherkin
-GIven [some context]
+```gherkin
+Given [some context]
 When [some action is taken]
 Then [the outcome of action is observed]
 ```
